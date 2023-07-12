@@ -13,21 +13,26 @@
 .part1{
    margin-left:500px ;
 }
-a:link{
+.one{
     text-decoration: none;
-    color: black;
+    color:black;
 }
-a:hover{
-    color:red;
+.one:hover{
+    color:rgb(223, 35, 35);
+}
+.one:active{
+    color: rgb(8, 131, 45);
 }
 .a3{
     margin-left: 200px;
+    margin-top: 15px;
 }
 .one{
     margin-left: 30px;
 }
 .f2{
     margin-left: 100PX;
+    margin-top: 15px;
     font-family: 'Archivo Black', sans-serif;
 font-family: 'Caprasimo', cursive;
 font-family: 'Fasthand', cursive;
@@ -79,4 +84,17 @@ font-family: 'Paytone One', sans-serif;
         background-color:orangered;
         color: white;
         border-radius: 10px;
+}
+.a8{
+    
+     margin-left: 600px;
+     margin-top: 25px;
+     margin-bottom: 25px;
+}
+.ash{
+    width: 400px;
+    height:400px;
+}
+.r2{
+    margin-top: 18px;
 }
