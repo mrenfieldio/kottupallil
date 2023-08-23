@@ -1,0 +1,93 @@
+
+header h1{
+    color: whitesmoke;
+}
+.navbar-nav{
+    margin-left: 300px;
+}
+
+header h5{
+    color: whitesmoke;
+}
+
+@media (max-width:991px){
+    .navbar-nav{
+        margin-left: 50px;
+    }
+}
+.carousel-item{
+    height: 80vh;
+}
+.rt4 h1{
+    color: black;
+}
+h1:hover{
+    color:rgb(163, 24, 24)
+}
+h5:hover{
+    color: black;
+}
+.part{
+    padding-top: 20vh;
+}
+.part p{
+    text-align: justify;
+
+}
+.rt1{
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+    }
+    @media (min-width:576px) and (max-width:1176px)
+    {
+        .carousel-inner{
+            max-height:500px;
+        }
+    }
+    .pic{
+        width: 300px;
+        border-radius:30px
+    }
+    .t2{
+        padding-left: 100px;
+        padding-top: 10px;
+    }
+    .btn1{
+        margin-left: 100px;
+        padding: 10px;
+        background-color: rgb(8, 93, 12);
+        border: none;
+        border-radius: 15px;
+        color: whitesmoke;
+    }
+    .f1{
+        color: black;
+    }
+    .f2{
+        color: black;
+        margin-left: 100px;
+    }
+    .f3{
+        margin-left: 75px;
+    }
+    li{
+        list-style: none;
+        line-height: 30px;
+    }
+    @media (max-width:400px){
+    .col-lg-4    .cat1{
+              width:100px;
+        }
+        .f1{
+            color: brown;
+        }
+    }
+
+    /* about */
+
+    .abh1{
+        color
+    }
